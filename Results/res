@@ -1,0 +1,734 @@
+[1,  50] loss: 1.401	Accuracy : 0.279		val-loss: 1.393	val-Accuracy : 0.226
+[6,  50] loss: 0.803	Accuracy : 0.707		val-loss: 1.124	val-Accuracy : 0.420
+[11,  50] loss: 0.342	Accuracy : 0.921		val-loss: 0.639	val-Accuracy : 0.731
+[16,  50] loss: 0.115	Accuracy : 0.948		val-loss: 0.485	val-Accuracy : 0.821
+[21,  50] loss: 0.068	Accuracy : 0.979		val-loss: 0.596	val-Accuracy : 0.764
+[26,  50] loss: 0.038	Accuracy : 0.985		val-loss: 1.095	val-Accuracy : 0.717
+[31,  50] loss: 0.044	Accuracy : 0.987		val-loss: 0.825	val-Accuracy : 0.778
+[36,  50] loss: 0.028	Accuracy : 0.983		val-loss: 1.194	val-Accuracy : 0.764
+[41,  50] loss: 0.005	Accuracy : 0.999		val-loss: 0.899	val-Accuracy : 0.778
+[46,  50] loss: 0.003	Accuracy : 0.999		val-loss: 0.928	val-Accuracy : 0.788
+Begin Training rep 2/5	 of Patient 2
+[1,  50] loss: 1.399	Accuracy : 0.341		val-loss: 1.342	val-Accuracy : 0.344
+[6,  50] loss: 0.807	Accuracy : 0.703		val-loss: 1.274	val-Accuracy : 0.368
+[11,  50] loss: 0.485	Accuracy : 0.865		val-loss: 0.812	val-Accuracy : 0.632
+[16,  50] loss: 0.224	Accuracy : 0.940		val-loss: 0.953	val-Accuracy : 0.618
+[21,  50] loss: 0.104	Accuracy : 0.963		val-loss: 0.588	val-Accuracy : 0.774
+[26,  50] loss: 0.067	Accuracy : 0.970		val-loss: 1.366	val-Accuracy : 0.660
+[31,  50] loss: 0.026	Accuracy : 0.990		val-loss: 0.632	val-Accuracy : 0.807
+[36,  50] loss: 0.008	Accuracy : 0.996		val-loss: 0.726	val-Accuracy : 0.797
+[41,  50] loss: 0.002	Accuracy : 1.000		val-loss: 0.912	val-Accuracy : 0.759
+[46,  50] loss: 0.001	Accuracy : 1.000		val-loss: 0.941	val-Accuracy : 0.755
+Begin Training rep 3/5	 of Patient 2
+[1,  50] loss: 1.402	Accuracy : 0.294		val-loss: 1.390	val-Accuracy : 0.307
+[6,  50] loss: 0.774	Accuracy : 0.728		val-loss: 1.050	val-Accuracy : 0.467
+[11,  50] loss: 0.235	Accuracy : 0.918		val-loss: 0.598	val-Accuracy : 0.731
+[16,  50] loss: 0.094	Accuracy : 0.974		val-loss: 0.372	val-Accuracy : 0.844
+[21,  50] loss: 0.055	Accuracy : 0.985		val-loss: 0.354	val-Accuracy : 0.835
+[26,  50] loss: 0.033	Accuracy : 0.992		val-loss: 0.461	val-Accuracy : 0.825
+[31,  50] loss: 0.016	Accuracy : 0.994		val-loss: 0.656	val-Accuracy : 0.811
+[36,  50] loss: 0.037	Accuracy : 0.971		val-loss: 1.514	val-Accuracy : 0.665
+[41,  50] loss: 0.014	Accuracy : 0.996		val-loss: 0.841	val-Accuracy : 0.783
+[46,  50] loss: 0.004	Accuracy : 0.999		val-loss: 1.147	val-Accuracy : 0.750
+Begin Training rep 4/5	 of Patient 2
+[1,  50] loss: 1.398	Accuracy : 0.442		val-loss: 1.371	val-Accuracy : 0.491
+[6,  50] loss: 0.770	Accuracy : 0.721		val-loss: 1.423	val-Accuracy : 0.458
+[11,  50] loss: 0.276	Accuracy : 0.899		val-loss: 1.078	val-Accuracy : 0.642
+[16,  50] loss: 0.116	Accuracy : 0.959		val-loss: 0.586	val-Accuracy : 0.741
+[21,  50] loss: 0.066	Accuracy : 0.975		val-loss: 0.903	val-Accuracy : 0.726
+[26,  50] loss: 0.033	Accuracy : 0.989		val-loss: 1.056	val-Accuracy : 0.745
+[31,  50] loss: 0.039	Accuracy : 0.986		val-loss: 0.955	val-Accuracy : 0.759
+[36,  50] loss: 0.019	Accuracy : 0.987		val-loss: 0.939	val-Accuracy : 0.759
+[41,  50] loss: 0.006	Accuracy : 0.989		val-loss: 1.543	val-Accuracy : 0.750
+[46,  50] loss: 0.049	Accuracy : 0.945		val-loss: 1.165	val-Accuracy : 0.708
+Begin Training rep 5/5	 of Patient 2
+[1,  50] loss: 1.401	Accuracy : 0.277		val-loss: 1.388	val-Accuracy : 0.212
+[6,  50] loss: 0.754	Accuracy : 0.734		val-loss: 1.204	val-Accuracy : 0.462
+[11,  50] loss: 0.341	Accuracy : 0.912		val-loss: 0.793	val-Accuracy : 0.651
+[16,  50] loss: 0.116	Accuracy : 0.959		val-loss: 0.905	val-Accuracy : 0.679
+[21,  50] loss: 0.052	Accuracy : 0.980		val-loss: 1.022	val-Accuracy : 0.684
+[26,  50] loss: 0.035	Accuracy : 0.982		val-loss: 0.874	val-Accuracy : 0.741
+[31,  50] loss: 0.051	Accuracy : 0.981		val-loss: 0.755	val-Accuracy : 0.778
+[36,  50] loss: 0.026	Accuracy : 0.987		val-loss: 1.158	val-Accuracy : 0.741
+[41,  50] loss: 0.024	Accuracy : 0.986		val-loss: 1.185	val-Accuracy : 0.750
+[46,  50] loss: 0.018	Accuracy : 0.991		val-loss: 1.197	val-Accuracy : 0.717
+loss: 0.005	Accuracy : 0.987		val-loss: 1.076	val-Accuracy : 0.743
+Begin Training rep 1/5	 of Patient 9
+[1,  50] loss: 1.402	Accuracy : 0.345		val-loss: 1.373	val-Accuracy : 0.376
+[6,  50] loss: 0.681	Accuracy : 0.787		val-loss: 0.394	val-Accuracy : 0.881
+[11,  50] loss: 0.246	Accuracy : 0.926		val-loss: 0.092	val-Accuracy : 0.990
+[16,  50] loss: 0.146	Accuracy : 0.936		val-loss: 0.082	val-Accuracy : 0.970
+[21,  50] loss: 0.076	Accuracy : 0.977		val-loss: 0.032	val-Accuracy : 0.990
+[26,  50] loss: 0.051	Accuracy : 0.981		val-loss: 0.084	val-Accuracy : 0.970
+[31,  50] loss: 0.048	Accuracy : 0.985		val-loss: 0.098	val-Accuracy : 0.975
+[36,  50] loss: 0.032	Accuracy : 0.984		val-loss: 0.105	val-Accuracy : 0.975
+[41,  50] loss: 0.016	Accuracy : 0.996		val-loss: 0.070	val-Accuracy : 0.990
+[46,  50] loss: 0.007	Accuracy : 0.998		val-loss: 0.039	val-Accuracy : 0.990
+Begin Training rep 2/5	 of Patient 9
+[1,  50] loss: 1.396	Accuracy : 0.368		val-loss: 1.336	val-Accuracy : 0.351
+[6,  50] loss: 0.794	Accuracy : 0.729		val-loss: 0.570	val-Accuracy : 0.738
+[11,  50] loss: 0.299	Accuracy : 0.928		val-loss: 0.130	val-Accuracy : 0.960
+[16,  50] loss: 0.134	Accuracy : 0.964		val-loss: 0.084	val-Accuracy : 0.980
+[21,  50] loss: 0.073	Accuracy : 0.974		val-loss: 0.159	val-Accuracy : 0.965
+[26,  50] loss: 0.048	Accuracy : 0.977		val-loss: 0.088	val-Accuracy : 0.970
+[31,  50] loss: 0.021	Accuracy : 0.995		val-loss: 0.108	val-Accuracy : 0.970
+[36,  50] loss: 0.029	Accuracy : 0.989		val-loss: 0.208	val-Accuracy : 0.960
+[41,  50] loss: 0.026	Accuracy : 0.989		val-loss: 0.091	val-Accuracy : 0.970
+[46,  50] loss: 0.012	Accuracy : 0.993		val-loss: 0.093	val-Accuracy : 0.975
+Begin Training rep 3/5	 of Patient 9
+[1,  50] loss: 1.400	Accuracy : 0.342		val-loss: 1.350	val-Accuracy : 0.317
+[6,  50] loss: 0.816	Accuracy : 0.706		val-loss: 0.662	val-Accuracy : 0.738
+[11,  50] loss: 0.465	Accuracy : 0.857		val-loss: 0.399	val-Accuracy : 0.851
+[16,  50] loss: 0.184	Accuracy : 0.936		val-loss: 0.140	val-Accuracy : 0.955
+[21,  50] loss: 0.114	Accuracy : 0.958		val-loss: 0.051	val-Accuracy : 0.985
+[26,  50] loss: 0.046	Accuracy : 0.987		val-loss: 0.034	val-Accuracy : 0.990
+[31,  50] loss: 0.026	Accuracy : 0.994		val-loss: 0.021	val-Accuracy : 0.995
+[36,  50] loss: 0.048	Accuracy : 0.977		val-loss: 0.013	val-Accuracy : 1.000
+[41,  50] loss: 0.017	Accuracy : 0.988		val-loss: 0.026	val-Accuracy : 0.995
+[46,  50] loss: 0.003	Accuracy : 1.000		val-loss: 0.025	val-Accuracy : 0.995
+Begin Training rep 4/5	 of Patient 9
+[1,  50] loss: 1.400	Accuracy : 0.288		val-loss: 1.366	val-Accuracy : 0.292
+[6,  50] loss: 0.802	Accuracy : 0.706		val-loss: 0.706	val-Accuracy : 0.688
+[11,  50] loss: 0.277	Accuracy : 0.918		val-loss: 0.121	val-Accuracy : 0.970
+[16,  50] loss: 0.135	Accuracy : 0.958		val-loss: 0.075	val-Accuracy : 0.975
+[21,  50] loss: 0.053	Accuracy : 0.972		val-loss: 0.068	val-Accuracy : 0.990
+[26,  50] loss: 0.069	Accuracy : 0.974		val-loss: 0.117	val-Accuracy : 0.980
+[31,  50] loss: 0.023	Accuracy : 0.994		val-loss: 0.129	val-Accuracy : 0.985
+[36,  50] loss: 0.013	Accuracy : 0.986		val-loss: 0.148	val-Accuracy : 0.975
+[41,  50] loss: 0.005	Accuracy : 0.998		val-loss: 0.124	val-Accuracy : 0.980
+[46,  50] loss: 0.002	Accuracy : 0.999		val-loss: 0.129	val-Accuracy : 0.985
+Begin Training rep 5/5	 of Patient 9
+[1,  50] loss: 1.401	Accuracy : 0.269		val-loss: 1.372	val-Accuracy : 0.287
+[6,  50] loss: 0.738	Accuracy : 0.737		val-loss: 0.548	val-Accuracy : 0.802
+[11,  50] loss: 0.251	Accuracy : 0.936		val-loss: 0.128	val-Accuracy : 0.975
+[16,  50] loss: 0.140	Accuracy : 0.958		val-loss: 0.077	val-Accuracy : 0.965
+[21,  50] loss: 0.083	Accuracy : 0.971		val-loss: 0.035	val-Accuracy : 0.990
+[26,  50] loss: 0.034	Accuracy : 0.984		val-loss: 0.046	val-Accuracy : 0.985
+[31,  50] loss: 0.021	Accuracy : 0.996		val-loss: 0.056	val-Accuracy : 0.975
+[36,  50] loss: 0.042	Accuracy : 0.961		val-loss: 0.080	val-Accuracy : 0.965
+[41,  50] loss: 0.010	Accuracy : 1.000		val-loss: 0.025	val-Accuracy : 1.000
+[46,  50] loss: 0.004	Accuracy : 0.998		val-loss: 0.019	val-Accuracy : 0.995
+loss: 0.003	Accuracy : 0.998		val-loss: 0.061	val-Accuracy : 0.988
+Begin Training rep 1/5	 of Patient 11
+[1,  50] loss: 1.399	Accuracy : 0.302		val-loss: 1.364	val-Accuracy : 0.280
+
+[6,  50] loss: 0.857	Accuracy : 0.689		val-loss: 0.941	val-Accuracy : 0.596
+[11,  50] loss: 0.468	Accuracy : 0.868		val-loss: 0.522	val-Accuracy : 0.804
+[16,  50] loss: 0.148	Accuracy : 0.932		val-loss: 0.254	val-Accuracy : 0.907
+[21,  50] loss: 0.136	Accuracy : 0.950		val-loss: 0.187	val-Accuracy : 0.916
+[26,  50] loss: 0.047	Accuracy : 0.987		val-loss: 0.059	val-Accuracy : 0.978
+[31,  50] loss: 0.019	Accuracy : 0.987		val-loss: 0.074	val-Accuracy : 0.964
+[36,  50] loss: 0.070	Accuracy : 0.985		val-loss: 0.147	val-Accuracy : 0.956
+[41,  50] loss: 0.016	Accuracy : 0.994		val-loss: 0.104	val-Accuracy : 0.969
+[46,  50] loss: 0.002	Accuracy : 0.998		val-loss: 0.112	val-Accuracy : 0.960
+Begin Training rep 2/5	 of Patient 11
+[1,  50] loss: 1.400	Accuracy : 0.274		val-loss: 1.402	val-Accuracy : 0.271
+[6,  50] loss: 0.786	Accuracy : 0.716		val-loss: 0.875	val-Accuracy : 0.636
+[11,  50] loss: 0.340	Accuracy : 0.895		val-loss: 0.326	val-Accuracy : 0.880
+[16,  50] loss: 0.133	Accuracy : 0.963		val-loss: 0.246	val-Accuracy : 0.907
+[21,  50] loss: 0.108	Accuracy : 0.953		val-loss: 0.305	val-Accuracy : 0.876
+[26,  50] loss: 0.053	Accuracy : 0.977		val-loss: 0.217	val-Accuracy : 0.929
+[31,  50] loss: 0.023	Accuracy : 0.991		val-loss: 0.278	val-Accuracy : 0.920
+[36,  50] loss: 0.011	Accuracy : 0.991		val-loss: 0.250	val-Accuracy : 0.924
+[41,  50] loss: 0.009	Accuracy : 0.991		val-loss: 0.282	val-Accuracy : 0.929
+[46,  50] loss: 0.023	Accuracy : 0.992		val-loss: 0.200	val-Accuracy : 0.942
+Begin Training rep 3/5	 of Patient 11
+[1,  50] loss: 1.401	Accuracy : 0.286		val-loss: 1.386	val-Accuracy : 0.258
+[6,  50] loss: 0.817	Accuracy : 0.698		val-loss: 1.014	val-Accuracy : 0.582
+[11,  50] loss: 0.315	Accuracy : 0.904		val-loss: 0.401	val-Accuracy : 0.822
+[16,  50] loss: 0.151	Accuracy : 0.935		val-loss: 0.224	val-Accuracy : 0.911
+[21,  50] loss: 0.072	Accuracy : 0.974		val-loss: 0.101	val-Accuracy : 0.960
+[26,  50] loss: 0.062	Accuracy : 0.973		val-loss: 0.112	val-Accuracy : 0.951
+[31,  50] loss: 0.064	Accuracy : 0.972		val-loss: 0.083	val-Accuracy : 0.956
+[36,  50] loss: 0.028	Accuracy : 0.993		val-loss: 0.046	val-Accuracy : 0.973
+[41,  50] loss: 0.007	Accuracy : 0.998		val-loss: 0.039	val-Accuracy : 0.982
+[46,  50] loss: 0.004	Accuracy : 0.998		val-loss: 0.034	val-Accuracy : 0.987
+Begin Training rep 4/5	 of Patient 11
+[1,  50] loss: 1.399	Accuracy : 0.297		val-loss: 1.377	val-Accuracy : 0.271
+[6,  50] loss: 0.783	Accuracy : 0.724		val-loss: 0.786	val-Accuracy : 0.689
+[11,  50] loss: 0.279	Accuracy : 0.914		val-loss: 0.221	val-Accuracy : 0.911
+[16,  50] loss: 0.142	Accuracy : 0.938		val-loss: 0.141	val-Accuracy : 0.951
+[21,  50] loss: 0.068	Accuracy : 0.969		val-loss: 0.136	val-Accuracy : 0.951
+[26,  50] loss: 0.036	Accuracy : 0.976		val-loss: 0.121	val-Accuracy : 0.969
+[31,  50] loss: 0.058	Accuracy : 0.982		val-loss: 0.130	val-Accuracy : 0.951
+[36,  50] loss: 0.029	Accuracy : 0.987		val-loss: 0.114	val-Accuracy : 0.973
+[41,  50] loss: 0.017	Accuracy : 0.994		val-loss: 0.130	val-Accuracy : 0.960
+[46,  50] loss: 0.006	Accuracy : 0.996		val-loss: 0.112	val-Accuracy : 0.956
+Begin Training rep 5/5	 of Patient 11
+[1,  50] loss: 1.399	Accuracy : 0.381		val-loss: 1.374	val-Accuracy : 0.387
+[6,  50] loss: 0.754	Accuracy : 0.723		val-loss: 0.759	val-Accuracy : 0.640
+[11,  50] loss: 0.246	Accuracy : 0.926		val-loss: 0.314	val-Accuracy : 0.889
+[16,  50] loss: 0.117	Accuracy : 0.966		val-loss: 0.252	val-Accuracy : 0.902
+[21,  50] loss: 0.057	Accuracy : 0.981		val-loss: 0.263	val-Accuracy : 0.916
+[26,  50] loss: 0.070	Accuracy : 0.972		val-loss: 0.303	val-Accuracy : 0.893
+[31,  50] loss: 0.055	Accuracy : 0.964		val-loss: 0.282	val-Accuracy : 0.911
+[36,  50] loss: 0.030	Accuracy : 0.969		val-loss: 0.183	val-Accuracy : 0.929
+[41,  50] loss: 0.006	Accuracy : 0.996		val-loss: 0.284	val-Accuracy : 0.924
+[46,  50] loss: 0.004	Accuracy : 0.998		val-loss: 0.325	val-Accuracy : 0.911
+loss: 0.003	Accuracy : 0.996		val-loss: 0.157	val-Accuracy : 0.951
+Begin Training rep 1/5	 of Patient 12
+[1,  50] loss: 1.399	Accuracy : 0.301		val-loss: 1.369	val-Accuracy : 0.276
+[6,  50] loss: 0.805	Accuracy : 0.708		val-loss: 1.047	val-Accuracy : 0.516
+[11,  50] loss: 0.344	Accuracy : 0.895		val-loss: 0.685	val-Accuracy : 0.742
+[16,  50] loss: 0.139	Accuracy : 0.958		val-loss: 0.540	val-Accuracy : 0.783
+[21,  50] loss: 0.071	Accuracy : 0.986		val-loss: 0.259	val-Accuracy : 0.912
+[26,  50] loss: 0.059	Accuracy : 0.975		val-loss: 0.475	val-Accuracy : 0.885
+[31,  50] loss: 0.035	Accuracy : 0.972		val-loss: 0.403	val-Accuracy : 0.885
+[36,  50] loss: 0.040	Accuracy : 0.987		val-loss: 0.312	val-Accuracy : 0.922
+[41,  50] loss: 0.005	Accuracy : 0.998		val-loss: 0.418	val-Accuracy : 0.894
+[46,  50] loss: 0.003	Accuracy : 0.998		val-loss: 0.361	val-Accuracy : 0.903
+Begin Training rep 2/5	 of Patient 12
+[1,  50] loss: 1.401	Accuracy : 0.277		val-loss: 1.385	val-Accuracy : 0.290
+[6,  50] loss: 0.759	Accuracy : 0.735		val-loss: 0.897	val-Accuracy : 0.645
+[11,  50] loss: 0.303	Accuracy : 0.904		val-loss: 0.564	val-Accuracy : 0.793
+[16,  50] loss: 0.136	Accuracy : 0.934		val-loss: 0.444	val-Accuracy : 0.834
+[21,  50] loss: 0.097	Accuracy : 0.974		val-loss: 0.359	val-Accuracy : 0.876
+[26,  50] loss: 0.078	Accuracy : 0.970		val-loss: 0.329	val-Accuracy : 0.912
+[31,  50] loss: 0.040	Accuracy : 0.987		val-loss: 0.387	val-Accuracy : 0.876
+[36,  50] loss: 0.011	Accuracy : 0.989		val-loss: 0.442	val-Accuracy : 0.866
+[41,  50] loss: 0.010	Accuracy : 0.984		val-loss: 0.449	val-Accuracy : 0.871
+[46,  50] loss: 0.150	Accuracy : 0.964		val-loss: 0.588	val-Accuracy : 0.853
+Begin Training rep 3/5	 of Patient 12
+[1,  50] loss: 1.403	Accuracy : 0.290		val-loss: 1.388	val-Accuracy : 0.272
+[6,  50] loss: 0.817	Accuracy : 0.684		val-loss: 1.003	val-Accuracy : 0.507
+[11,  50] loss: 0.283	Accuracy : 0.910		val-loss: 0.407	val-Accuracy : 0.871
+[16,  50] loss: 0.183	Accuracy : 0.938		val-loss: 0.261	val-Accuracy : 0.908
+[21,  50] loss: 0.100	Accuracy : 0.971		val-loss: 0.228	val-Accuracy : 0.926
+[26,  50] loss: 0.045	Accuracy : 0.980		val-loss: 0.232	val-Accuracy : 0.935
+[31,  50] loss: 0.025	Accuracy : 0.988		val-loss: 0.265	val-Accuracy : 0.926
+[36,  50] loss: 0.047	Accuracy : 0.965		val-loss: 0.327	val-Accuracy : 0.912
+[41,  50] loss: 0.040	Accuracy : 0.979		val-loss: 0.378	val-Accuracy : 0.866
+[46,  50] loss: 0.012	Accuracy : 0.983		val-loss: 0.357	val-Accuracy : 0.912
+Begin Training rep 4/5	 of Patient 12
+[1,  50] loss: 1.402	Accuracy : 0.292		val-loss: 1.383	val-Accuracy : 0.263
+[6,  50] loss: 0.790	Accuracy : 0.733		val-loss: 0.962	val-Accuracy : 0.590
+[11,  50] loss: 0.234	Accuracy : 0.932		val-loss: 0.239	val-Accuracy : 0.926
+[16,  50] loss: 0.104	Accuracy : 0.967		val-loss: 0.190	val-Accuracy : 0.917
+[21,  50] loss: 0.053	Accuracy : 0.987		val-loss: 0.183	val-Accuracy : 0.949
+[26,  50] loss: 0.038	Accuracy : 0.988		val-loss: 0.161	val-Accuracy : 0.949
+[31,  50] loss: 0.033	Accuracy : 0.985		val-loss: 0.196	val-Accuracy : 0.926
+[36,  50] loss: 0.015	Accuracy : 0.986		val-loss: 0.196	val-Accuracy : 0.935
+[41,  50] loss: 0.053	Accuracy : 0.985		val-loss: 0.162	val-Accuracy : 0.949
+[46,  50] loss: 0.008	Accuracy : 0.999		val-loss: 0.113	val-Accuracy : 0.949
+Begin Training rep 5/5	 of Patient 12
+[1,  50] loss: 1.399	Accuracy : 0.270		val-loss: 1.386	val-Accuracy : 0.267
+[6,  50] loss: 0.836	Accuracy : 0.654		val-loss: 0.998	val-Accuracy : 0.562
+[11,  50] loss: 0.371	Accuracy : 0.905		val-loss: 0.288	val-Accuracy : 0.894
+[16,  50] loss: 0.157	Accuracy : 0.945		val-loss: 0.187	val-Accuracy : 0.935
+[21,  50] loss: 0.084	Accuracy : 0.980		val-loss: 0.142	val-Accuracy : 0.954
+[26,  50] loss: 0.048	Accuracy : 0.987		val-loss: 0.148	val-Accuracy : 0.954
+[31,  50] loss: 0.053	Accuracy : 0.982		val-loss: 0.193	val-Accuracy : 0.931
+[36,  50] loss: 0.014	Accuracy : 0.993		val-loss: 0.172	val-Accuracy : 0.954
+[41,  50] loss: 0.010	Accuracy : 0.996		val-loss: 0.228	val-Accuracy : 0.949
+[46,  50] loss: 0.071	Accuracy : 0.985		val-loss: 0.267	val-Accuracy : 0.922
+loss: 0.006	Accuracy : 0.986		val-loss: 0.337	val-Accuracy : 0.908
+Begin Training rep 1/5	 of Patient 8
+[1,  50] loss: 1.400	Accuracy : 0.354		val-loss: 1.343	val-Accuracy : 0.306
+
+[6,  50] loss: 0.880	Accuracy : 0.656		val-loss: 0.675	val-Accuracy : 0.637
+[11,  50] loss: 0.474	Accuracy : 0.862		val-loss: 0.281	val-Accuracy : 0.896
+[16,  50] loss: 0.124	Accuracy : 0.960		val-loss: 0.055	val-Accuracy : 0.974
+[21,  50] loss: 0.073	Accuracy : 0.968		val-loss: 0.045	val-Accuracy : 0.990
+[26,  50] loss: 0.037	Accuracy : 0.972		val-loss: 0.021	val-Accuracy : 0.995
+[31,  50] loss: 0.032	Accuracy : 0.979		val-loss: 0.022	val-Accuracy : 0.984
+[36,  50] loss: 0.046	Accuracy : 0.979		val-loss: 0.025	val-Accuracy : 0.995
+[41,  50] loss: 0.007	Accuracy : 0.998		val-loss: 0.027	val-Accuracy : 0.990
+[46,  50] loss: 0.003	Accuracy : 0.999		val-loss: 0.019	val-Accuracy : 0.984
+Begin Training rep 2/5	 of Patient 8
+[1,  50] loss: 1.399	Accuracy : 0.316		val-loss: 1.368	val-Accuracy : 0.326
+[6,  50] loss: 0.794	Accuracy : 0.708		val-loss: 0.581	val-Accuracy : 0.777
+[11,  50] loss: 0.327	Accuracy : 0.906		val-loss: 0.227	val-Accuracy : 0.912
+[16,  50] loss: 0.160	Accuracy : 0.939		val-loss: 0.122	val-Accuracy : 0.964
+[21,  50] loss: 0.105	Accuracy : 0.960		val-loss: 0.089	val-Accuracy : 0.959
+[26,  50] loss: 0.061	Accuracy : 0.977		val-loss: 0.072	val-Accuracy : 0.969
+[31,  50] loss: 0.029	Accuracy : 0.985		val-loss: 0.108	val-Accuracy : 0.959
+[36,  50] loss: 0.014	Accuracy : 0.991		val-loss: 0.106	val-Accuracy : 0.959
+[41,  50] loss: 0.005	Accuracy : 0.998		val-loss: 0.035	val-Accuracy : 0.979
+[46,  50] loss: 0.003	Accuracy : 0.999		val-loss: 0.032	val-Accuracy : 0.984
+Begin Training rep 3/5	 of Patient 8
+[1,  50] loss: 1.398	Accuracy : 0.417		val-loss: 1.329	val-Accuracy : 0.404
+[6,  50] loss: 0.828	Accuracy : 0.693		val-loss: 0.618	val-Accuracy : 0.705
+[11,  50] loss: 0.322	Accuracy : 0.887		val-loss: 0.188	val-Accuracy : 0.917
+[16,  50] loss: 0.142	Accuracy : 0.948		val-loss: 0.056	val-Accuracy : 0.979
+[21,  50] loss: 0.064	Accuracy : 0.964		val-loss: 0.063	val-Accuracy : 0.974
+[26,  50] loss: 0.055	Accuracy : 0.977		val-loss: 0.042	val-Accuracy : 0.984
+[31,  50] loss: 0.032	Accuracy : 0.994		val-loss: 0.019	val-Accuracy : 0.990
+[36,  50] loss: 0.012	Accuracy : 0.991		val-loss: 0.034	val-Accuracy : 0.984
+[41,  50] loss: 0.007	Accuracy : 0.999		val-loss: 0.029	val-Accuracy : 0.984
+[46,  50] loss: 0.010	Accuracy : 0.998		val-loss: 0.030	val-Accuracy : 0.990
+Begin Training rep 4/5	 of Patient 8
+[1,  50] loss: 1.403	Accuracy : 0.286		val-loss: 1.380	val-Accuracy : 0.290
+[6,  50] loss: 0.820	Accuracy : 0.710		val-loss: 0.990	val-Accuracy : 0.746
+[11,  50] loss: 0.428	Accuracy : 0.836		val-loss: 0.351	val-Accuracy : 0.881
+[16,  50] loss: 0.160	Accuracy : 0.952		val-loss: 0.147	val-Accuracy : 0.927
+[21,  50] loss: 0.078	Accuracy : 0.969		val-loss: 0.120	val-Accuracy : 0.964
+[26,  50] loss: 0.043	Accuracy : 0.984		val-loss: 0.125	val-Accuracy : 0.959
+[31,  50] loss: 0.044	Accuracy : 0.971		val-loss: 0.124	val-Accuracy : 0.948
+[36,  50] loss: 0.017	Accuracy : 0.995		val-loss: 0.062	val-Accuracy : 0.984
+[41,  50] loss: 0.007	Accuracy : 0.997		val-loss: 0.081	val-Accuracy : 0.969
+[46,  50] loss: 0.004	Accuracy : 0.998		val-loss: 0.087	val-Accuracy : 0.969
+Begin Training rep 5/5	 of Patient 8
+[1,  50] loss: 1.403	Accuracy : 0.283		val-loss: 1.376	val-Accuracy : 0.290
+[6,  50] loss: 0.798	Accuracy : 0.725		val-loss: 0.657	val-Accuracy : 0.699
+[11,  50] loss: 0.252	Accuracy : 0.924		val-loss: 0.120	val-Accuracy : 0.959
+[16,  50] loss: 0.118	Accuracy : 0.945		val-loss: 0.103	val-Accuracy : 0.969
+[21,  50] loss: 0.070	Accuracy : 0.963		val-loss: 0.079	val-Accuracy : 0.974
+[26,  50] loss: 0.038	Accuracy : 0.974		val-loss: 0.047	val-Accuracy : 0.990
+[31,  50] loss: 0.026	Accuracy : 0.987		val-loss: 0.019	val-Accuracy : 0.995
+[36,  50] loss: 0.013	Accuracy : 0.987		val-loss: 0.024	val-Accuracy : 0.984
+[41,  50] loss: 0.030	Accuracy : 0.977		val-loss: 0.086	val-Accuracy : 0.969
+[46,  50] loss: 0.017	Accuracy : 0.995		val-loss: 0.038	val-Accuracy : 0.984
+loss: 0.003	Accuracy : 0.998		val-loss: 0.041	val-Accuracy : 0.982
+Begin Training rep 1/5	 of Patient 10
+[1,  50] loss: 1.402	Accuracy : 0.285		val-loss: 1.381	val-Accuracy : 0.271
+[6,  50] loss: 0.798	Accuracy : 0.710		val-loss: 0.730	val-Accuracy : 0.700
+[11,  50] loss: 0.261	Accuracy : 0.940		val-loss: 0.145	val-Accuracy : 0.957
+[16,  50] loss: 0.103	Accuracy : 0.964		val-loss: 0.138	val-Accuracy : 0.948
+[21,  50] loss: 0.042	Accuracy : 0.990		val-loss: 0.080	val-Accuracy : 0.971
+[26,  50] loss: 0.044	Accuracy : 0.974		val-loss: 0.116	val-Accuracy : 0.962
+[31,  50] loss: 0.033	Accuracy : 0.986		val-loss: 0.132	val-Accuracy : 0.962
+[36,  50] loss: 0.014	Accuracy : 0.992		val-loss: 0.111	val-Accuracy : 0.971
+[41,  50] loss: 0.004	Accuracy : 0.993		val-loss: 0.061	val-Accuracy : 0.967
+[46,  50] loss: 0.065	Accuracy : 0.991		val-loss: 0.212	val-Accuracy : 0.938
+Begin Training rep 2/5	 of Patient 10
+[1,  50] loss: 1.397	Accuracy : 0.415		val-loss: 1.335	val-Accuracy : 0.448
+[6,  50] loss: 0.760	Accuracy : 0.728		val-loss: 0.597	val-Accuracy : 0.790
+[11,  50] loss: 0.287	Accuracy : 0.896		val-loss: 0.184	val-Accuracy : 0.929
+[16,  50] loss: 0.129	Accuracy : 0.950		val-loss: 0.063	val-Accuracy : 0.967
+[21,  50] loss: 0.122	Accuracy : 0.957		val-loss: 0.049	val-Accuracy : 0.990
+[26,  50] loss: 0.086	Accuracy : 0.974		val-loss: 0.058	val-Accuracy : 0.981
+[31,  50] loss: 0.035	Accuracy : 0.995		val-loss: 0.042	val-Accuracy : 0.986
+[36,  50] loss: 0.011	Accuracy : 0.996		val-loss: 0.064	val-Accuracy : 0.976
+[41,  50] loss: 0.015	Accuracy : 0.994		val-loss: 0.053	val-Accuracy : 0.976
+[46,  50] loss: 0.018	Accuracy : 0.998		val-loss: 0.073	val-Accuracy : 0.971
+Begin Training rep 3/5	 of Patient 10
+[1,  50] loss: 1.402	Accuracy : 0.285		val-loss: 1.380	val-Accuracy : 0.271
+[6,  50] loss: 0.783	Accuracy : 0.720		val-loss: 0.704	val-Accuracy : 0.752
+[11,  50] loss: 0.316	Accuracy : 0.922		val-loss: 0.230	val-Accuracy : 0.933
+[16,  50] loss: 0.139	Accuracy : 0.953		val-loss: 0.097	val-Accuracy : 0.976
+[21,  50] loss: 0.088	Accuracy : 0.972		val-loss: 0.080	val-Accuracy : 0.981
+[26,  50] loss: 0.048	Accuracy : 0.981		val-loss: 0.072	val-Accuracy : 0.986
+[31,  50] loss: 0.054	Accuracy : 0.966		val-loss: 0.182	val-Accuracy : 0.952
+[36,  50] loss: 0.038	Accuracy : 0.988		val-loss: 0.062	val-Accuracy : 0.986
+[41,  50] loss: 0.020	Accuracy : 0.991		val-loss: 0.040	val-Accuracy : 0.986
+[46,  50] loss: 0.021	Accuracy : 0.993		val-loss: 0.077	val-Accuracy : 0.981
+Begin Training rep 4/5	 of Patient 10
+[1,  50] loss: 1.401	Accuracy : 0.295		val-loss: 1.379	val-Accuracy : 0.276
+[6,  50] loss: 0.855	Accuracy : 0.677		val-loss: 0.778	val-Accuracy : 0.648
+[11,  50] loss: 0.476	Accuracy : 0.840		val-loss: 0.386	val-Accuracy : 0.848
+[16,  50] loss: 0.233	Accuracy : 0.929		val-loss: 0.189	val-Accuracy : 0.933
+[21,  50] loss: 0.173	Accuracy : 0.949		val-loss: 0.132	val-Accuracy : 0.952
+[26,  50] loss: 0.050	Accuracy : 0.993		val-loss: 0.092	val-Accuracy : 0.967
+[31,  50] loss: 0.042	Accuracy : 0.981		val-loss: 0.118	val-Accuracy : 0.952
+[36,  50] loss: 0.020	Accuracy : 0.987		val-loss: 0.068	val-Accuracy : 0.971
+[41,  50] loss: 0.030	Accuracy : 0.991		val-loss: 0.104	val-Accuracy : 0.962
+[46,  50] loss: 0.031	Accuracy : 0.994		val-loss: 0.114	val-Accuracy : 0.957
+Begin Training rep 5/5	 of Patient 10
+[1,  50] loss: 1.400	Accuracy : 0.340		val-loss: 1.376	val-Accuracy : 0.371
+[6,  50] loss: 0.792	Accuracy : 0.695		val-loss: 0.679	val-Accuracy : 0.700
+[11,  50] loss: 0.327	Accuracy : 0.881		val-loss: 0.243	val-Accuracy : 0.910
+[16,  50] loss: 0.163	Accuracy : 0.930		val-loss: 0.169	val-Accuracy : 0.938
+[21,  50] loss: 0.091	Accuracy : 0.968		val-loss: 0.134	val-Accuracy : 0.967
+[26,  50] loss: 0.084	Accuracy : 0.981		val-loss: 0.141	val-Accuracy : 0.952
+[31,  50] loss: 0.063	Accuracy : 0.978		val-loss: 0.104	val-Accuracy : 0.962
+[36,  50] loss: 0.037	Accuracy : 0.988		val-loss: 0.130	val-Accuracy : 0.952
+[41,  50] loss: 0.014	Accuracy : 0.997		val-loss: 0.053	val-Accuracy : 0.981
+[46,  50] loss: 0.007	Accuracy : 0.998		val-loss: 0.069	val-Accuracy : 0.962
+loss: 0.017	Accuracy : 0.995		val-loss: 0.109	val-Accuracy : 0.962
+Begin Training rep 1/5	 of Patient 1
+[1,  50] loss: 1.402	Accuracy : 0.365		val-loss: 1.358	val-Accuracy : 0.432
+[6,  50] loss: 0.796	Accuracy : 0.726		val-loss: 1.280	val-Accuracy : 0.443
+
+[11,  50] loss: 0.226	Accuracy : 0.938		val-loss: 0.828	val-Accuracy : 0.681
+[16,  50] loss: 0.073	Accuracy : 0.972		val-loss: 1.741	val-Accuracy : 0.503
+[21,  50] loss: 0.045	Accuracy : 0.979		val-loss: 2.089	val-Accuracy : 0.546
+[26,  50] loss: 0.027	Accuracy : 0.995		val-loss: 1.566	val-Accuracy : 0.643
+[31,  50] loss: 0.004	Accuracy : 0.999		val-loss: 2.119	val-Accuracy : 0.568
+[36,  50] loss: 0.004	Accuracy : 0.994		val-loss: 2.852	val-Accuracy : 0.573
+[41,  50] loss: 0.004	Accuracy : 0.996		val-loss: 2.941	val-Accuracy : 0.589
+[46,  50] loss: 0.003	Accuracy : 0.998		val-loss: 2.758	val-Accuracy : 0.584
+Begin Training rep 2/5	 of Patient 1
+[1,  50] loss: 1.400	Accuracy : 0.287		val-loss: 1.362	val-Accuracy : 0.319
+[6,  50] loss: 0.723	Accuracy : 0.772		val-loss: 1.129	val-Accuracy : 0.427
+[11,  50] loss: 0.203	Accuracy : 0.947		val-loss: 1.093	val-Accuracy : 0.611
+[16,  50] loss: 0.077	Accuracy : 0.957		val-loss: 0.827	val-Accuracy : 0.800
+[21,  50] loss: 0.040	Accuracy : 0.970		val-loss: 0.891	val-Accuracy : 0.843
+[26,  50] loss: 0.023	Accuracy : 0.991		val-loss: 1.159	val-Accuracy : 0.741
+[31,  50] loss: 0.015	Accuracy : 0.995		val-loss: 1.912	val-Accuracy : 0.622
+[36,  50] loss: 0.006	Accuracy : 0.999		val-loss: 1.908	val-Accuracy : 0.622
+[41,  50] loss: 0.001	Accuracy : 1.000		val-loss: 2.011	val-Accuracy : 0.649
+[46,  50] loss: 0.001	Accuracy : 0.999		val-loss: 2.229	val-Accuracy : 0.649
+Begin Training rep 3/5	 of Patient 1
+[1,  50] loss: 1.390	Accuracy : 0.458		val-loss: 1.224	val-Accuracy : 0.524
+[6,  50] loss: 0.839	Accuracy : 0.683		val-loss: 1.134	val-Accuracy : 0.422
+[11,  50] loss: 0.353	Accuracy : 0.903		val-loss: 1.331	val-Accuracy : 0.454
+[16,  50] loss: 0.097	Accuracy : 0.967		val-loss: 1.203	val-Accuracy : 0.627
+[21,  50] loss: 0.050	Accuracy : 0.983		val-loss: 1.330	val-Accuracy : 0.562
+[26,  50] loss: 0.018	Accuracy : 0.992		val-loss: 1.308	val-Accuracy : 0.670
+[31,  50] loss: 0.029	Accuracy : 0.990		val-loss: 1.228	val-Accuracy : 0.757
+[36,  50] loss: 0.016	Accuracy : 0.996		val-loss: 1.672	val-Accuracy : 0.632
+[41,  50] loss: 0.008	Accuracy : 0.998		val-loss: 2.226	val-Accuracy : 0.616
+[46,  50] loss: 0.003	Accuracy : 0.999		val-loss: 2.460	val-Accuracy : 0.600
+Begin Training rep 4/5	 of Patient 1
+[1,  50] loss: 1.401	Accuracy : 0.282		val-loss: 1.370	val-Accuracy : 0.308
+[6,  50] loss: 0.768	Accuracy : 0.695		val-loss: 1.289	val-Accuracy : 0.378
+[11,  50] loss: 0.295	Accuracy : 0.911		val-loss: 0.944	val-Accuracy : 0.600
+[16,  50] loss: 0.070	Accuracy : 0.981		val-loss: 1.123	val-Accuracy : 0.632
+[21,  50] loss: 0.061	Accuracy : 0.981		val-loss: 1.487	val-Accuracy : 0.616
+[26,  50] loss: 0.016	Accuracy : 0.992		val-loss: 2.146	val-Accuracy : 0.589
+[31,  50] loss: 0.014	Accuracy : 0.987		val-loss: 1.620	val-Accuracy : 0.670
+[36,  50] loss: 0.013	Accuracy : 0.985		val-loss: 1.792	val-Accuracy : 0.681
+[41,  50] loss: 0.030	Accuracy : 0.993		val-loss: 1.618	val-Accuracy : 0.676
+[46,  50] loss: 0.003	Accuracy : 0.999		val-loss: 2.375	val-Accuracy : 0.638
+Begin Training rep 5/5	 of Patient 1
+[1,  50] loss: 1.403	Accuracy : 0.268		val-loss: 1.377	val-Accuracy : 0.259
+[6,  50] loss: 0.773	Accuracy : 0.725		val-loss: 1.144	val-Accuracy : 0.405
+[11,  50] loss: 0.292	Accuracy : 0.923		val-loss: 1.453	val-Accuracy : 0.497
+[16,  50] loss: 0.086	Accuracy : 0.974		val-loss: 1.682	val-Accuracy : 0.605
+[21,  50] loss: 0.052	Accuracy : 0.982		val-loss: 2.055	val-Accuracy : 0.600
+[26,  50] loss: 0.034	Accuracy : 0.988		val-loss: 2.239	val-Accuracy : 0.632
+[31,  50] loss: 0.034	Accuracy : 0.992		val-loss: 2.413	val-Accuracy : 0.627
+[36,  50] loss: 0.015	Accuracy : 0.992		val-loss: 2.757	val-Accuracy : 0.670
+[41,  50] loss: 0.010	Accuracy : 0.999		val-loss: 2.642	val-Accuracy : 0.665
+[46,  50] loss: 0.001	Accuracy : 1.000		val-loss: 3.148	val-Accuracy : 0.654
+loss: 0.002	Accuracy : 0.999		val-loss: 2.594	val-Accuracy : 0.625
+Begin Training rep 1/5	 of Patient 7
+[1,  50] loss: 1.395	Accuracy : 0.448		val-loss: 1.352	val-Accuracy : 0.383
+[6,  50] loss: 0.841	Accuracy : 0.670		val-loss: 0.754	val-Accuracy : 0.662
+[11,  50] loss: 0.349	Accuracy : 0.900		val-loss: 0.164	val-Accuracy : 0.960
+[16,  50] loss: 0.182	Accuracy : 0.943		val-loss: 0.096	val-Accuracy : 0.985
+[21,  50] loss: 0.073	Accuracy : 0.965		val-loss: 0.179	val-Accuracy : 0.955
+[26,  50] loss: 0.051	Accuracy : 0.974		val-loss: 0.174	val-Accuracy : 0.960
+[31,  50] loss: 0.047	Accuracy : 0.963		val-loss: 0.163	val-Accuracy : 0.970
+[36,  50] loss: 0.049	Accuracy : 0.981		val-loss: 0.181	val-Accuracy : 0.965
+[41,  50] loss: 0.020	Accuracy : 0.995		val-loss: 0.055	val-Accuracy : 0.985
+[46,  50] loss: 0.014	Accuracy : 0.991		val-loss: 0.088	val-Accuracy : 0.970
+Begin Training rep 2/5	 of Patient 7
+[1,  50] loss: 1.398	Accuracy : 0.378		val-loss: 1.363	val-Accuracy : 0.333
+[6,  50] loss: 0.816	Accuracy : 0.709		val-loss: 0.694	val-Accuracy : 0.711
+[11,  50] loss: 0.320	Accuracy : 0.921		val-loss: 0.190	val-Accuracy : 0.930
+[16,  50] loss: 0.166	Accuracy : 0.924		val-loss: 0.147	val-Accuracy : 0.945
+[21,  50] loss: 0.089	Accuracy : 0.974		val-loss: 0.109	val-Accuracy : 0.965
+[26,  50] loss: 0.069	Accuracy : 0.987		val-loss: 0.082	val-Accuracy : 0.975
+[31,  50] loss: 0.022	Accuracy : 0.987		val-loss: 0.107	val-Accuracy : 0.965
+[36,  50] loss: 0.010	Accuracy : 0.994		val-loss: 0.092	val-Accuracy : 0.970
+[41,  50] loss: 0.005	Accuracy : 0.999		val-loss: 0.070	val-Accuracy : 0.985
+[46,  50] loss: 0.004	Accuracy : 0.999		val-loss: 0.072	val-Accuracy : 0.980
+Begin Training rep 3/5	 of Patient 7
+[1,  50] loss: 1.399	Accuracy : 0.433		val-loss: 1.371	val-Accuracy : 0.323
+[6,  50] loss: 0.803	Accuracy : 0.722		val-loss: 0.641	val-Accuracy : 0.766
+[11,  50] loss: 0.331	Accuracy : 0.897		val-loss: 0.252	val-Accuracy : 0.940
+[16,  50] loss: 0.138	Accuracy : 0.945		val-loss: 0.110	val-Accuracy : 0.960
+[21,  50] loss: 0.128	Accuracy : 0.960		val-loss: 0.093	val-Accuracy : 0.975
+[26,  50] loss: 0.052	Accuracy : 0.979		val-loss: 0.050	val-Accuracy : 0.975
+[31,  50] loss: 0.026	Accuracy : 0.982		val-loss: 0.033	val-Accuracy : 0.985
+[36,  50] loss: 0.021	Accuracy : 0.991		val-loss: 0.070	val-Accuracy : 0.980
+[41,  50] loss: 0.044	Accuracy : 0.985		val-loss: 0.051	val-Accuracy : 0.975
+[46,  50] loss: 0.011	Accuracy : 0.995		val-loss: 0.065	val-Accuracy : 0.975
+Begin Training rep 4/5	 of Patient 7
+[1,  50] loss: 1.396	Accuracy : 0.431		val-loss: 1.357	val-Accuracy : 0.348
+[6,  50] loss: 0.740	Accuracy : 0.772		val-loss: 0.515	val-Accuracy : 0.831
+[11,  50] loss: 0.212	Accuracy : 0.943		val-loss: 0.096	val-Accuracy : 0.970
+[16,  50] loss: 0.108	Accuracy : 0.966		val-loss: 0.052	val-Accuracy : 0.980
+[21,  50] loss: 0.083	Accuracy : 0.951		val-loss: 0.117	val-Accuracy : 0.945
+[26,  50] loss: 0.058	Accuracy : 0.976		val-loss: 0.101	val-Accuracy : 0.965
+[31,  50] loss: 0.022	Accuracy : 0.999		val-loss: 0.064	val-Accuracy : 0.975
+[36,  50] loss: 0.006	Accuracy : 0.999		val-loss: 0.069	val-Accuracy : 0.980
+[41,  50] loss: 0.004	Accuracy : 0.999		val-loss: 0.088	val-Accuracy : 0.980
+[46,  50] loss: 0.004	Accuracy : 0.998		val-loss: 0.098	val-Accuracy : 0.980
+Begin Training rep 5/5	 of Patient 7
+[1,  50] loss: 1.400	Accuracy : 0.290		val-loss: 1.368	val-Accuracy : 0.289
+[6,  50] loss: 0.812	Accuracy : 0.703		val-loss: 0.662	val-Accuracy : 0.761
+[11,  50] loss: 0.331	Accuracy : 0.887		val-loss: 0.243	val-Accuracy : 0.935
+[16,  50] loss: 0.138	Accuracy : 0.963		val-loss: 0.062	val-Accuracy : 0.990
+[21,  50] loss: 0.074	Accuracy : 0.975		val-loss: 0.084	val-Accuracy : 0.985
+[26,  50] loss: 0.049	Accuracy : 0.985		val-loss: 0.058	val-Accuracy : 0.985
+[31,  50] loss: 0.021	Accuracy : 0.989		val-loss: 0.080	val-Accuracy : 0.985
+[36,  50] loss: 0.013	Accuracy : 0.990		val-loss: 0.077	val-Accuracy : 0.980
+[41,  50] loss: 0.006	Accuracy : 0.998		val-loss: 0.079	val-Accuracy : 0.970
+[46,  50] loss: 0.004	Accuracy : 0.999		val-loss: 0.077	val-Accuracy : 0.975
+loss: 0.006	Accuracy : 0.996		val-loss: 0.080	val-Accuracy : 0.976
+Begin Training rep 1/5	 of Patient 4
+[1,  50] loss: 1.402	Accuracy : 0.355		val-loss: 1.373	val-Accuracy : 0.358
+[6,  50] loss: 0.735	Accuracy : 0.755		val-loss: 0.635	val-Accuracy : 0.816
+[11,  50] loss: 0.261	Accuracy : 0.910		val-loss: 0.373	val-Accuracy : 0.900
+
+[16,  50] loss: 0.115	Accuracy : 0.959		val-loss: 0.104	val-Accuracy : 0.975
+[21,  50] loss: 0.058	Accuracy : 0.985		val-loss: 0.047	val-Accuracy : 0.980
+[26,  50] loss: 0.043	Accuracy : 0.979		val-loss: 0.062	val-Accuracy : 0.980
+[31,  50] loss: 0.042	Accuracy : 0.987		val-loss: 0.023	val-Accuracy : 0.990
+[36,  50] loss: 0.015	Accuracy : 0.994		val-loss: 0.034	val-Accuracy : 0.995
+[41,  50] loss: 0.005	Accuracy : 0.999		val-loss: 0.037	val-Accuracy : 0.995
+[46,  50] loss: 0.004	Accuracy : 0.999		val-loss: 0.029	val-Accuracy : 0.995
+Begin Training rep 2/5	 of Patient 4
+[1,  50] loss: 1.399	Accuracy : 0.282		val-loss: 1.373	val-Accuracy : 0.299
+[6,  50] loss: 0.707	Accuracy : 0.814		val-loss: 0.357	val-Accuracy : 0.915
+[11,  50] loss: 0.207	Accuracy : 0.938		val-loss: 0.075	val-Accuracy : 0.985
+[16,  50] loss: 0.110	Accuracy : 0.962		val-loss: 0.036	val-Accuracy : 0.990
+[21,  50] loss: 0.066	Accuracy : 0.977		val-loss: 0.017	val-Accuracy : 0.995
+[26,  50] loss: 0.059	Accuracy : 0.957		val-loss: 0.042	val-Accuracy : 0.990
+[31,  50] loss: 0.022	Accuracy : 0.989		val-loss: 0.030	val-Accuracy : 0.995
+[36,  50] loss: 0.010	Accuracy : 0.995		val-loss: 0.014	val-Accuracy : 0.990
+[41,  50] loss: 0.004	Accuracy : 0.999		val-loss: 0.007	val-Accuracy : 1.000
+[46,  50] loss: 0.004	Accuracy : 0.999		val-loss: 0.005	val-Accuracy : 1.000
+Begin Training rep 3/5	 of Patient 4
+[1,  50] loss: 1.402	Accuracy : 0.282		val-loss: 1.375	val-Accuracy : 0.299
+[6,  50] loss: 0.808	Accuracy : 0.686		val-loss: 0.638	val-Accuracy : 0.791
+[11,  50] loss: 0.257	Accuracy : 0.920		val-loss: 0.102	val-Accuracy : 0.985
+[16,  50] loss: 0.144	Accuracy : 0.959		val-loss: 0.052	val-Accuracy : 0.990
+[21,  50] loss: 0.084	Accuracy : 0.972		val-loss: 0.017	val-Accuracy : 1.000
+[26,  50] loss: 0.084	Accuracy : 0.972		val-loss: 0.057	val-Accuracy : 0.990
+[31,  50] loss: 0.035	Accuracy : 0.991		val-loss: 0.041	val-Accuracy : 0.990
+[36,  50] loss: 0.031	Accuracy : 0.981		val-loss: 0.007	val-Accuracy : 1.000
+[41,  50] loss: 0.020	Accuracy : 0.990		val-loss: 0.021	val-Accuracy : 0.990
+[46,  50] loss: 0.023	Accuracy : 0.981		val-loss: 0.118	val-Accuracy : 0.960
+Begin Training rep 4/5	 of Patient 4
+[1,  50] loss: 1.402	Accuracy : 0.267		val-loss: 1.374	val-Accuracy : 0.284
+[6,  50] loss: 0.762	Accuracy : 0.689		val-loss: 0.660	val-Accuracy : 0.741
+[11,  50] loss: 0.231	Accuracy : 0.929		val-loss: 0.064	val-Accuracy : 0.985
+[16,  50] loss: 0.117	Accuracy : 0.963		val-loss: 0.051	val-Accuracy : 0.980
+[21,  50] loss: 0.075	Accuracy : 0.975		val-loss: 0.051	val-Accuracy : 0.980
+[26,  50] loss: 0.042	Accuracy : 0.986		val-loss: 0.044	val-Accuracy : 0.980
+[31,  50] loss: 0.032	Accuracy : 0.988		val-loss: 0.079	val-Accuracy : 0.975
+[36,  50] loss: 0.024	Accuracy : 0.983		val-loss: 0.053	val-Accuracy : 0.975
+[41,  50] loss: 0.022	Accuracy : 0.972		val-loss: 0.032	val-Accuracy : 0.980
+[46,  50] loss: 0.024	Accuracy : 0.979		val-loss: 0.078	val-Accuracy : 0.965
+Begin Training rep 5/5	 of Patient 4
+[1,  50] loss: 1.401	Accuracy : 0.282		val-loss: 1.367	val-Accuracy : 0.299
+[6,  50] loss: 0.823	Accuracy : 0.688		val-loss: 0.598	val-Accuracy : 0.781
+[11,  50] loss: 0.332	Accuracy : 0.921		val-loss: 0.131	val-Accuracy : 0.970
+[16,  50] loss: 0.183	Accuracy : 0.951		val-loss: 0.086	val-Accuracy : 0.960
+[21,  50] loss: 0.150	Accuracy : 0.966		val-loss: 0.047	val-Accuracy : 0.980
+[26,  50] loss: 0.088	Accuracy : 0.977		val-loss: 0.045	val-Accuracy : 0.985
+[31,  50] loss: 0.069	Accuracy : 0.980		val-loss: 0.031	val-Accuracy : 0.980
+[36,  50] loss: 0.039	Accuracy : 0.982		val-loss: 0.050	val-Accuracy : 0.980
+[41,  50] loss: 0.013	Accuracy : 0.997		val-loss: 0.012	val-Accuracy : 1.000
+[46,  50] loss: 0.053	Accuracy : 0.993		val-loss: 0.015	val-Accuracy : 0.995
+loss: 0.007	Accuracy : 0.990		val-loss: 0.049	val-Accuracy : 0.983
+Begin Training rep 1/5	 of Patient 14
+[1,  50] loss: 1.401	Accuracy : 0.427		val-loss: 1.382	val-Accuracy : 0.421
+[6,  50] loss: 0.650	Accuracy : 0.820		val-loss: 1.000	val-Accuracy : 0.617
+[11,  50] loss: 0.186	Accuracy : 0.937		val-loss: 0.564	val-Accuracy : 0.746
+[16,  50] loss: 0.109	Accuracy : 0.953		val-loss: 0.863	val-Accuracy : 0.656
+[21,  50] loss: 0.064	Accuracy : 0.966		val-loss: 1.238	val-Accuracy : 0.641
+[26,  50] loss: 0.025	Accuracy : 0.990		val-loss: 1.275	val-Accuracy : 0.684
+[31,  50] loss: 0.038	Accuracy : 0.977		val-loss: 1.365	val-Accuracy : 0.708
+[36,  50] loss: 0.008	Accuracy : 0.993		val-loss: 1.589	val-Accuracy : 0.694
+[41,  50] loss: 0.011	Accuracy : 0.988		val-loss: 2.099	val-Accuracy : 0.660
+[46,  50] loss: 0.019	Accuracy : 0.993		val-loss: 1.663	val-Accuracy : 0.694
+Begin Training rep 2/5	 of Patient 14
+[1,  50] loss: 1.402	Accuracy : 0.289		val-loss: 1.374	val-Accuracy : 0.282
+[6,  50] loss: 0.765	Accuracy : 0.719		val-loss: 0.978	val-Accuracy : 0.641
+[11,  50] loss: 0.269	Accuracy : 0.918		val-loss: 0.798	val-Accuracy : 0.660
+[16,  50] loss: 0.128	Accuracy : 0.955		val-loss: 0.661	val-Accuracy : 0.675
+[21,  50] loss: 0.073	Accuracy : 0.976		val-loss: 0.733	val-Accuracy : 0.703
+[26,  50] loss: 0.042	Accuracy : 0.991		val-loss: 0.824	val-Accuracy : 0.737
+[31,  50] loss: 0.034	Accuracy : 0.985		val-loss: 0.474	val-Accuracy : 0.876
+[36,  50] loss: 0.019	Accuracy : 0.991		val-loss: 0.636	val-Accuracy : 0.813
+[41,  50] loss: 0.011	Accuracy : 0.993		val-loss: 0.651	val-Accuracy : 0.813
+[46,  50] loss: 0.018	Accuracy : 0.984		val-loss: 0.730	val-Accuracy : 0.861
+Begin Training rep 3/5	 of Patient 14
+[1,  50] loss: 1.400	Accuracy : 0.438		val-loss: 1.370	val-Accuracy : 0.416
+[6,  50] loss: 0.771	Accuracy : 0.755		val-loss: 1.148	val-Accuracy : 0.469
+[11,  50] loss: 0.268	Accuracy : 0.929		val-loss: 0.950	val-Accuracy : 0.646
+[16,  50] loss: 0.110	Accuracy : 0.961		val-loss: 0.636	val-Accuracy : 0.780
+[21,  50] loss: 0.068	Accuracy : 0.974		val-loss: 0.676	val-Accuracy : 0.785
+[26,  50] loss: 0.074	Accuracy : 0.974		val-loss: 0.935	val-Accuracy : 0.718
+[31,  50] loss: 0.020	Accuracy : 0.989		val-loss: 0.637	val-Accuracy : 0.837
+[36,  50] loss: 0.015	Accuracy : 0.991		val-loss: 0.839	val-Accuracy : 0.818
+[41,  50] loss: 0.044	Accuracy : 0.985		val-loss: 1.509	val-Accuracy : 0.718
+[46,  50] loss: 0.009	Accuracy : 0.989		val-loss: 1.688	val-Accuracy : 0.713
+Begin Training rep 4/5	 of Patient 14
+[1,  50] loss: 1.403	Accuracy : 0.285		val-loss: 1.383	val-Accuracy : 0.263
+[6,  50] loss: 0.764	Accuracy : 0.679		val-loss: 0.959	val-Accuracy : 0.617
+[11,  50] loss: 0.386	Accuracy : 0.874		val-loss: 0.602	val-Accuracy : 0.751
+[16,  50] loss: 0.121	Accuracy : 0.960		val-loss: 0.443	val-Accuracy : 0.785
+[21,  50] loss: 0.063	Accuracy : 0.963		val-loss: 0.456	val-Accuracy : 0.813
+[26,  50] loss: 0.069	Accuracy : 0.968		val-loss: 0.286	val-Accuracy : 0.880
+[31,  50] loss: 0.029	Accuracy : 0.960		val-loss: 0.229	val-Accuracy : 0.928
+[36,  50] loss: 0.010	Accuracy : 0.986		val-loss: 0.506	val-Accuracy : 0.809
+[41,  50] loss: 0.005	Accuracy : 0.996		val-loss: 0.551	val-Accuracy : 0.823
+[46,  50] loss: 0.004	Accuracy : 0.996		val-loss: 0.562	val-Accuracy : 0.809
+Begin Training rep 5/5	 of Patient 14
+[1,  50] loss: 1.399	Accuracy : 0.413		val-loss: 1.364	val-Accuracy : 0.426
+[6,  50] loss: 0.706	Accuracy : 0.806		val-loss: 1.033	val-Accuracy : 0.517
+[11,  50] loss: 0.266	Accuracy : 0.927		val-loss: 0.725	val-Accuracy : 0.689
+[16,  50] loss: 0.179	Accuracy : 0.946		val-loss: 0.362	val-Accuracy : 0.847
+[21,  50] loss: 0.070	Accuracy : 0.982		val-loss: 0.538	val-Accuracy : 0.761
+[26,  50] loss: 0.055	Accuracy : 0.990		val-loss: 0.610	val-Accuracy : 0.785
+[31,  50] loss: 0.017	Accuracy : 0.991		val-loss: 0.975	val-Accuracy : 0.694
+[36,  50] loss: 0.010	Accuracy : 0.996		val-loss: 1.122	val-Accuracy : 0.713
+[41,  50] loss: 0.006	Accuracy : 0.996		val-loss: 1.106	val-Accuracy : 0.727
+[46,  50] loss: 0.006	Accuracy : 0.998		val-loss: 0.968	val-Accuracy : 0.751
+loss: 0.012	Accuracy : 0.992		val-loss: 1.122	val-Accuracy : 0.766
+Begin Training rep 1/5	 of Patient 6
+[1,  50] loss: 1.402	Accuracy : 0.415		val-loss: 1.365	val-Accuracy : 0.408
+[6,  50] loss: 0.865	Accuracy : 0.663		val-loss: 0.614	val-Accuracy : 0.776
+[11,  50] loss: 0.277	Accuracy : 0.924		val-loss: 0.084	val-Accuracy : 0.990
+[16,  50] loss: 0.136	Accuracy : 0.941		val-loss: 0.025	val-Accuracy : 1.000
+
+[21,  50] loss: 0.086	Accuracy : 0.940		val-loss: 0.026	val-Accuracy : 1.000
+[26,  50] loss: 0.042	Accuracy : 0.962		val-loss: 0.012	val-Accuracy : 1.000
+[31,  50] loss: 0.040	Accuracy : 0.959		val-loss: 0.057	val-Accuracy : 0.969
+[36,  50] loss: 0.072	Accuracy : 0.975		val-loss: 0.030	val-Accuracy : 0.995
+[41,  50] loss: 0.020	Accuracy : 0.994		val-loss: 0.056	val-Accuracy : 0.969
+[46,  50] loss: 0.004	Accuracy : 1.000		val-loss: 0.021	val-Accuracy : 0.985
+Begin Training rep 2/5	 of Patient 6
+[1,  50] loss: 1.395	Accuracy : 0.433		val-loss: 1.328	val-Accuracy : 0.500
+[6,  50] loss: 0.766	Accuracy : 0.748		val-loss: 0.501	val-Accuracy : 0.827
+[11,  50] loss: 0.189	Accuracy : 0.949		val-loss: 0.053	val-Accuracy : 0.990
+[16,  50] loss: 0.100	Accuracy : 0.977		val-loss: 0.016	val-Accuracy : 1.000
+[21,  50] loss: 0.095	Accuracy : 0.980		val-loss: 0.016	val-Accuracy : 1.000
+[26,  50] loss: 0.026	Accuracy : 0.996		val-loss: 0.012	val-Accuracy : 0.995
+[31,  50] loss: 0.018	Accuracy : 0.994		val-loss: 0.029	val-Accuracy : 0.990
+[36,  50] loss: 0.011	Accuracy : 0.998		val-loss: 0.027	val-Accuracy : 0.990
+[41,  50] loss: 0.006	Accuracy : 0.998		val-loss: 0.013	val-Accuracy : 0.990
+[46,  50] loss: 0.005	Accuracy : 0.998		val-loss: 0.014	val-Accuracy : 0.990
+Begin Training rep 3/5	 of Patient 6
+[1,  50] loss: 1.400	Accuracy : 0.314		val-loss: 1.364	val-Accuracy : 0.311
+[6,  50] loss: 0.870	Accuracy : 0.662		val-loss: 0.622	val-Accuracy : 0.770
+[11,  50] loss: 0.337	Accuracy : 0.895		val-loss: 0.126	val-Accuracy : 0.974
+[16,  50] loss: 0.141	Accuracy : 0.955		val-loss: 0.041	val-Accuracy : 0.985
+[21,  50] loss: 0.081	Accuracy : 0.972		val-loss: 0.029	val-Accuracy : 0.995
+[26,  50] loss: 0.040	Accuracy : 0.985		val-loss: 0.045	val-Accuracy : 0.980
+[31,  50] loss: 0.040	Accuracy : 0.981		val-loss: 0.089	val-Accuracy : 0.964
+[36,  50] loss: 0.032	Accuracy : 0.988		val-loss: 0.018	val-Accuracy : 0.990
+[41,  50] loss: 0.014	Accuracy : 0.991		val-loss: 0.036	val-Accuracy : 0.990
+[46,  50] loss: 0.006	Accuracy : 0.997		val-loss: 0.045	val-Accuracy : 0.980
+Begin Training rep 4/5	 of Patient 6
+[1,  50] loss: 1.403	Accuracy : 0.282		val-loss: 1.371	val-Accuracy : 0.301
+[6,  50] loss: 0.587	Accuracy : 0.838		val-loss: 0.170	val-Accuracy : 0.959
+[11,  50] loss: 0.236	Accuracy : 0.943		val-loss: 0.063	val-Accuracy : 0.985
+[16,  50] loss: 0.121	Accuracy : 0.943		val-loss: 0.037	val-Accuracy : 0.990
+[21,  50] loss: 0.082	Accuracy : 0.946		val-loss: 0.017	val-Accuracy : 1.000
+[26,  50] loss: 0.058	Accuracy : 0.959		val-loss: 0.014	val-Accuracy : 1.000
+[31,  50] loss: 0.028	Accuracy : 0.994		val-loss: 0.030	val-Accuracy : 0.985
+[36,  50] loss: 0.019	Accuracy : 0.996		val-loss: 0.034	val-Accuracy : 0.980
+[41,  50] loss: 0.002	Accuracy : 0.999		val-loss: 0.024	val-Accuracy : 0.990
+[46,  50] loss: 0.001	Accuracy : 0.999		val-loss: 0.021	val-Accuracy : 0.990
+Begin Training rep 5/5	 of Patient 6
+[1,  50] loss: 1.402	Accuracy : 0.284		val-loss: 1.371	val-Accuracy : 0.327
+[6,  50] loss: 0.782	Accuracy : 0.755		val-loss: 0.491	val-Accuracy : 0.842
+[11,  50] loss: 0.222	Accuracy : 0.943		val-loss: 0.040	val-Accuracy : 1.000
+[16,  50] loss: 0.116	Accuracy : 0.964		val-loss: 0.030	val-Accuracy : 0.990
+[21,  50] loss: 0.067	Accuracy : 0.957		val-loss: 0.018	val-Accuracy : 1.000
+[26,  50] loss: 0.042	Accuracy : 0.981		val-loss: 0.014	val-Accuracy : 0.995
+[31,  50] loss: 0.034	Accuracy : 0.982		val-loss: 0.039	val-Accuracy : 0.990
+[36,  50] loss: 0.015	Accuracy : 0.996		val-loss: 0.032	val-Accuracy : 0.990
+[41,  50] loss: 0.006	Accuracy : 0.999		val-loss: 0.018	val-Accuracy : 0.995
+[46,  50] loss: 0.005	Accuracy : 0.999		val-loss: 0.022	val-Accuracy : 0.990
+loss: 0.003	Accuracy : 0.999		val-loss: 0.025	val-Accuracy : 0.987
+Begin Training rep 1/5	 of Patient 15
+[1,  50] loss: 1.401	Accuracy : 0.284		val-loss: 1.383	val-Accuracy : 0.273
+[6,  50] loss: 0.677	Accuracy : 0.782		val-loss: 2.424	val-Accuracy : 0.305
+[11,  50] loss: 0.271	Accuracy : 0.940		val-loss: 2.158	val-Accuracy : 0.441
+[16,  50] loss: 0.117	Accuracy : 0.960		val-loss: 2.233	val-Accuracy : 0.505
+[21,  50] loss: 0.051	Accuracy : 0.987		val-loss: 2.226	val-Accuracy : 0.541
+[26,  50] loss: 0.051	Accuracy : 0.977		val-loss: 3.498	val-Accuracy : 0.495
+[31,  50] loss: 0.030	Accuracy : 0.989		val-loss: 2.501	val-Accuracy : 0.568
+[36,  50] loss: 0.022	Accuracy : 0.997		val-loss: 2.593	val-Accuracy : 0.550
+[41,  50] loss: 0.004	Accuracy : 0.998		val-loss: 2.774	val-Accuracy : 0.577
+[46,  50] loss: 0.003	Accuracy : 0.998		val-loss: 2.695	val-Accuracy : 0.605
+Begin Training rep 2/5	 of Patient 15
+[1,  50] loss: 1.401	Accuracy : 0.282		val-loss: 1.383	val-Accuracy : 0.264
+[6,  50] loss: 0.693	Accuracy : 0.793		val-loss: 2.646	val-Accuracy : 0.300
+[11,  50] loss: 0.366	Accuracy : 0.904		val-loss: 3.340	val-Accuracy : 0.364
+[16,  50] loss: 0.131	Accuracy : 0.954		val-loss: 3.028	val-Accuracy : 0.418
+[21,  50] loss: 0.094	Accuracy : 0.975		val-loss: 2.635	val-Accuracy : 0.418
+[26,  50] loss: 0.025	Accuracy : 0.982		val-loss: 3.894	val-Accuracy : 0.455
+[31,  50] loss: 0.016	Accuracy : 0.983		val-loss: 4.360	val-Accuracy : 0.450
+[36,  50] loss: 0.006	Accuracy : 0.995		val-loss: 2.564	val-Accuracy : 0.595
+[41,  50] loss: 0.010	Accuracy : 0.996		val-loss: 3.500	val-Accuracy : 0.577
+[46,  50] loss: 0.018	Accuracy : 0.986		val-loss: 3.957	val-Accuracy : 0.505
+Begin Training rep 3/5	 of Patient 15
+[1,  50] loss: 1.401	Accuracy : 0.284		val-loss: 1.383	val-Accuracy : 0.273
+[6,  50] loss: 0.696	Accuracy : 0.824		val-loss: 2.163	val-Accuracy : 0.364
+[11,  50] loss: 0.175	Accuracy : 0.950		val-loss: 3.074	val-Accuracy : 0.432
+[16,  50] loss: 0.104	Accuracy : 0.980		val-loss: 2.200	val-Accuracy : 0.500
+[21,  50] loss: 0.038	Accuracy : 0.990		val-loss: 2.741	val-Accuracy : 0.555
+[26,  50] loss: 0.023	Accuracy : 0.986		val-loss: 3.487	val-Accuracy : 0.495
+[31,  50] loss: 0.005	Accuracy : 0.998		val-loss: 3.353	val-Accuracy : 0.545
+[36,  50] loss: 0.076	Accuracy : 0.983		val-loss: 3.441	val-Accuracy : 0.541
+[41,  50] loss: 0.011	Accuracy : 0.999		val-loss: 3.202	val-Accuracy : 0.545
+[46,  50] loss: 0.001	Accuracy : 1.000		val-loss: 3.430	val-Accuracy : 0.541
+Begin Training rep 4/5	 of Patient 15
+[1,  50] loss: 1.401	Accuracy : 0.284		val-loss: 1.381	val-Accuracy : 0.273
+[6,  50] loss: 0.655	Accuracy : 0.807		val-loss: 2.674	val-Accuracy : 0.318
+[11,  50] loss: 0.205	Accuracy : 0.951		val-loss: 2.700	val-Accuracy : 0.518
+[16,  50] loss: 0.065	Accuracy : 0.977		val-loss: 2.650	val-Accuracy : 0.432
+[21,  50] loss: 0.043	Accuracy : 0.984		val-loss: 2.806	val-Accuracy : 0.491
+[26,  50] loss: 0.038	Accuracy : 0.987		val-loss: 3.662	val-Accuracy : 0.477
+[31,  50] loss: 0.016	Accuracy : 0.997		val-loss: 2.894	val-Accuracy : 0.550
+[36,  50] loss: 0.030	Accuracy : 0.993		val-loss: 3.337	val-Accuracy : 0.541
+[41,  50] loss: 0.009	Accuracy : 0.996		val-loss: 3.796	val-Accuracy : 0.509
+[46,  50] loss: 0.011	Accuracy : 0.999		val-loss: 3.385	val-Accuracy : 0.568
+Begin Training rep 5/5	 of Patient 15
+[1,  50] loss: 1.394	Accuracy : 0.354		val-loss: 1.400	val-Accuracy : 0.282
+[6,  50] loss: 0.701	Accuracy : 0.768		val-loss: 2.484	val-Accuracy : 0.391
+[11,  50] loss: 0.202	Accuracy : 0.936		val-loss: 2.913	val-Accuracy : 0.459
+[16,  50] loss: 0.078	Accuracy : 0.985		val-loss: 2.123	val-Accuracy : 0.541
+[21,  50] loss: 0.040	Accuracy : 0.980		val-loss: 2.497	val-Accuracy : 0.505
+[26,  50] loss: 0.036	Accuracy : 0.982		val-loss: 2.616	val-Accuracy : 0.491
+[31,  50] loss: 0.018	Accuracy : 0.998		val-loss: 2.318	val-Accuracy : 0.609
+[36,  50] loss: 0.005	Accuracy : 0.991		val-loss: 2.003	val-Accuracy : 0.695
+[41,  50] loss: 0.009	Accuracy : 0.998		val-loss: 2.683	val-Accuracy : 0.545
+[46,  50] loss: 0.200	Accuracy : 0.984		val-loss: 2.412	val-Accuracy : 0.591
+loss: 0.007	Accuracy : 0.993		val-loss: 3.176	val-Accuracy : 0.562
+Begin Training rep 1/5	 of Patient 3
+[1,  50] loss: 1.397	Accuracy : 0.412		val-loss: 1.333	val-Accuracy : 0.437
+[6,  50] loss: 0.776	Accuracy : 0.726		val-loss: 1.221	val-Accuracy : 0.518
+[11,  50] loss: 0.285	Accuracy : 0.913		val-loss: 0.603	val-Accuracy : 0.784
+[16,  50] loss: 0.133	Accuracy : 0.947		val-loss: 0.356	val-Accuracy : 0.884
+[21,  50] loss: 0.071	Accuracy : 0.974		val-loss: 0.219	val-Accuracy : 0.930
+
+[26,  50] loss: 0.036	Accuracy : 0.982		val-loss: 0.473	val-Accuracy : 0.899
+[31,  50] loss: 0.064	Accuracy : 0.969		val-loss: 0.477	val-Accuracy : 0.889
+[36,  50] loss: 0.018	Accuracy : 0.989		val-loss: 0.320	val-Accuracy : 0.915
+[41,  50] loss: 0.011	Accuracy : 0.992		val-loss: 0.450	val-Accuracy : 0.889
+[46,  50] loss: 0.008	Accuracy : 0.998		val-loss: 0.335	val-Accuracy : 0.935
+Begin Training rep 2/5	 of Patient 3
+[1,  50] loss: 1.401	Accuracy : 0.288		val-loss: 1.379	val-Accuracy : 0.281
+[6,  50] loss: 0.774	Accuracy : 0.724		val-loss: 1.166	val-Accuracy : 0.513
+[11,  50] loss: 0.310	Accuracy : 0.920		val-loss: 0.515	val-Accuracy : 0.809
+[16,  50] loss: 0.156	Accuracy : 0.955		val-loss: 0.459	val-Accuracy : 0.859
+[21,  50] loss: 0.102	Accuracy : 0.979		val-loss: 0.348	val-Accuracy : 0.899
+[26,  50] loss: 0.071	Accuracy : 0.978		val-loss: 0.338	val-Accuracy : 0.905
+[31,  50] loss: 0.049	Accuracy : 0.990		val-loss: 0.322	val-Accuracy : 0.905
+[36,  50] loss: 0.013	Accuracy : 0.997		val-loss: 0.394	val-Accuracy : 0.905
+[41,  50] loss: 0.008	Accuracy : 0.998		val-loss: 0.407	val-Accuracy : 0.905
+[46,  50] loss: 0.008	Accuracy : 0.999		val-loss: 0.394	val-Accuracy : 0.905
+Begin Training rep 3/5	 of Patient 3
+[1,  50] loss: 1.401	Accuracy : 0.287		val-loss: 1.392	val-Accuracy : 0.276
+[6,  50] loss: 0.832	Accuracy : 0.666		val-loss: 1.253	val-Accuracy : 0.503
+[11,  50] loss: 0.329	Accuracy : 0.921		val-loss: 0.625	val-Accuracy : 0.799
+[16,  50] loss: 0.133	Accuracy : 0.959		val-loss: 0.333	val-Accuracy : 0.874
+[21,  50] loss: 0.066	Accuracy : 0.963		val-loss: 0.338	val-Accuracy : 0.910
+[26,  50] loss: 0.052	Accuracy : 0.981		val-loss: 0.304	val-Accuracy : 0.915
+[31,  50] loss: 0.029	Accuracy : 0.981		val-loss: 0.436	val-Accuracy : 0.874
+[36,  50] loss: 0.015	Accuracy : 0.989		val-loss: 0.379	val-Accuracy : 0.884
+[41,  50] loss: 0.015	Accuracy : 0.989		val-loss: 0.479	val-Accuracy : 0.869
+[46,  50] loss: 0.017	Accuracy : 0.994		val-loss: 0.532	val-Accuracy : 0.874
+Begin Training rep 4/5	 of Patient 3
+[1,  50] loss: 1.400	Accuracy : 0.283		val-loss: 1.379	val-Accuracy : 0.281
+[6,  50] loss: 0.702	Accuracy : 0.722		val-loss: 1.131	val-Accuracy : 0.573
+[11,  50] loss: 0.256	Accuracy : 0.904		val-loss: 0.564	val-Accuracy : 0.809
+[16,  50] loss: 0.118	Accuracy : 0.965		val-loss: 0.412	val-Accuracy : 0.905
+[21,  50] loss: 0.048	Accuracy : 0.986		val-loss: 0.382	val-Accuracy : 0.910
+[26,  50] loss: 0.045	Accuracy : 0.983		val-loss: 0.396	val-Accuracy : 0.899
+[31,  50] loss: 0.053	Accuracy : 0.987		val-loss: 0.482	val-Accuracy : 0.905
+[36,  50] loss: 0.011	Accuracy : 0.996		val-loss: 0.317	val-Accuracy : 0.930
+[41,  50] loss: 0.004	Accuracy : 0.999		val-loss: 0.380	val-Accuracy : 0.920
+[46,  50] loss: 0.004	Accuracy : 0.999		val-loss: 0.424	val-Accuracy : 0.915
+Begin Training rep 5/5	 of Patient 3
+[1,  50] loss: 1.401	Accuracy : 0.284		val-loss: 1.383	val-Accuracy : 0.276
+[6,  50] loss: 0.785	Accuracy : 0.709		val-loss: 1.066	val-Accuracy : 0.538
+[11,  50] loss: 0.354	Accuracy : 0.890		val-loss: 0.777	val-Accuracy : 0.739
+[16,  50] loss: 0.207	Accuracy : 0.948		val-loss: 0.584	val-Accuracy : 0.864
+[21,  50] loss: 0.145	Accuracy : 0.962		val-loss: 0.791	val-Accuracy : 0.874
+[26,  50] loss: 0.100	Accuracy : 0.964		val-loss: 0.805	val-Accuracy : 0.869
+[31,  50] loss: 0.030	Accuracy : 0.993		val-loss: 0.834	val-Accuracy : 0.859
+[36,  50] loss: 0.045	Accuracy : 0.988		val-loss: 0.882	val-Accuracy : 0.849
+[41,  50] loss: 0.019	Accuracy : 0.998		val-loss: 0.936	val-Accuracy : 0.874
+[46,  50] loss: 0.006	Accuracy : 0.998		val-loss: 0.969	val-Accuracy : 0.844
+loss: 0.017	Accuracy : 0.997		val-loss: 0.531	val-Accuracy : 0.894
+
