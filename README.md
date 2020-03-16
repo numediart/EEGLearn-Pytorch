@@ -6,7 +6,7 @@ EEGLearn is a tool aiming to classify electroencephalogram (EEG) into different 
 
 ![alt text](diagram.png "Converting EEG recordings to movie snippets")
 |:--:| 
-| *Space* |
+| Taken from (Bashivan et al. 2016)[https://arxiv.org/pdf/1511.06448.pdf]|
 
 All the codes have been inspired from the [original github](https://github.com/pbashivan/EEGLearn).
 
