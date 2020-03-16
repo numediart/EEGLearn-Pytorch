@@ -9,16 +9,16 @@ EEGLearn is a tool aiming to classify electroencephalogram (EEG) into different 
 | Taken from [Bashivan et al. 2016](https://arxiv.org/pdf/1511.06448.pdf)|
 
 
-This implementation aiming to present a pytorch implementation of the mentionned works, the functions related to the images creation have directly been copied and pasted from [original github](https://github.com/pbashivan/EEGLearn) in the Utils_Bashivan.py script. The rest of the implementation has been totally recoded with Pytorch lib.
+This implementation aiming to present a pytorch implementation of the mentioned works, the functions related to the creation of the images have directly been copied and pasted from [original github](https://github.com/pbashivan/EEGLearn) in the Utils_Bashivan.py script. The rest of the implementation has been totally recoded with Pytorch lib.
 
 ## Requirements
 
-In order to run the codes, the following librairies (and their corresponding dependencies) have to been installed:
+In order to run the codes, the following libraries (and their corresponding dependencies) have to been installed:
 
-- Python 	3.7
-- Pytroch 	1.3.1
-- Cudatoolkit 	10.1.243
-- Cudnn 	7.6.3
+- Python     3.7
+- Pytroch     1.3.1
+- Cudatoolkit     10.1.243
+- Cudnn     7.6.3
 
 Installation with pip: `pip install -r requirements.txt`
 
@@ -29,7 +29,7 @@ Import of the environment with conda: `conda env create -f Pytorch_EEG.yml`
 
 A [jupyter notebook](EEGLearn_ShortDemo.ipynb) presents a short summary of the codes.
 
-The early stopping being not implemented in Pytorch, a version of the code with a custome version will be uploaded as soon as possible.
+The early stopping being not implemented in Pytorch, a version of the code with a custom version will be uploaded as soon as possible.
 
 
 ## References 
