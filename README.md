@@ -27,6 +27,8 @@ Import of the environment with conda: `conda env create -f Pytorch_EEG.yml`
 
 ## Notes 
 
+A [jupyter notebook](EEGLearn_ShortDemo.ipynb) presents a short summary of the codes.
+
 The early stopping being not implemented in Pytorch, a version of the code with a custome version will be uploaded as soon as possible.
 
 
