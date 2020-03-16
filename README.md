@@ -9,7 +9,7 @@ EEGLearn is a tool aiming to classify electroencephalogram (EEG) into different 
 | Taken from [Bashivan et al. 2016](https://arxiv.org/pdf/1511.06448.pdf)|
 
 
-This implementation aiming to present a pytorch implementation of the mentionned works, the functions related to the images creation have directly been copied and pasted from [original github](https://github.com/pbashivan/EEGLearn). The rest of the implementation has been totally recoded with Pytorch lib.
+This implementation aiming to present a pytorch implementation of the mentionned works, the functions related to the images creation have directly been copied and pasted from [original github](https://github.com/pbashivan/EEGLearn) in the Utils_Bashivan.py script. The rest of the implementation has been totally recoded with Pytorch lib.
 
 ## Requirements
 
