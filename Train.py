@@ -26,6 +26,7 @@ import numpy as np
 import scipy.io as sio
 import torch
 import os
+from os import path
 
 import torch.optim as optim
 import torch.nn.functional as F
@@ -43,11 +44,16 @@ np.random.seed(1234)
 import warnings
 warnings.simplefilter("ignore")
 
-Mean_Images = sio.loadmat("Sample Data/images.mat")["img"] #corresponding to the images mean for all the seven windows
+
+if not path.exists("Sample Data/images_time.mat"):
+    print("Time Windom Images didn't exist need to be created.")
+    create_img()
+
 Images = sio.loadmat("Sample Data/images_time.mat")["img"] #corresponding to the images mean for all the seven windows
+Mean_Images = np.mean(Images, axis= 0)
+#Mean_Images = sio.loadmat("Sample Data/images.mat")["img"] #corresponding to the images mean for all the seven windows
 Label = (sio.loadmat("Sample Data/FeatureMat_timeWin")["features"][:,-1]-1).astype(int) #corresponding to the signal label (i.e. load levels).
 Patient_id = sio.loadmat("Sample Data/trials_subNums.mat")['subjectNum'][0] #corresponding to the patient id
-
 
 # Introduction: training a simple CNN with the mean of the images.
 train_part = 0.8

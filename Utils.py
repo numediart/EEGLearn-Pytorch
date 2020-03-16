@@ -23,9 +23,11 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 '''
 
 from torch.utils.data.dataset import Dataset
+from Utils_Bashivan import *
 
 import torch
 
+import scipy.io as sio
 import torch.optim as optim
 import torch.nn as nn
 import numpy as np
@@ -129,3 +131,22 @@ def TrainTest_Model(model, trainloader, testloader, n_epoch=30, opti='SGD', lear
                  (running_loss, running_acc, validation_loss,validation_acc))
     
     return (running_loss, running_acc, validation_loss,validation_acc)
+
+
+
+def create_img():
+    feats = sio.loadmat('Sample Data/FeatureMat_timeWin.mat')['features']
+    locs = sio.loadmat('Sample Data/Neuroscan_locs_orig.mat')
+    locs_3d = locs['A']
+    locs_2d = []
+    # Convert to 2D
+    for e in locs_3d:
+        locs_2d.append(azim_proj(e))
+
+    images_timewin = np.array([gen_images(np.array(locs_2d),
+                                          feats[:, i * 192:(i + 1) * 192], 32, normalize=True) for i in
+                               range(int(feats.shape[1] / 192))
+                               ])
+
+    sio.savemat("Sample Data/images_time.mat",{"img":images_timewin})
+    print("Images Created and Save in Sample Dat/images_time")
