@@ -23,3 +23,17 @@ In order to run the codes, the following librairies (and their corresponding dep
 Installation with pip: `pip install -r requirements.txt`
 
 Import of the environment with conda: `conda env create -f Pytorch_EEG.yml`
+
+
+## Notes 
+
+The early stopping being not implemented in Pytorch, a version of the code with a custome version will be uploaded as soon as possible.
+
+
+## References 
+
+If you are using this code please [cite](Cite.bib) the paper:
+
+Bashivan, et al. "Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks." International conference on learning representations (2016).
+
+https://arxiv.org/pdf/1511.06448.pdf
