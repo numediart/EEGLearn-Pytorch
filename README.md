@@ -27,7 +27,7 @@ Import of the environment with conda: `conda env create -f Pytorch_EEG.yml`
 
 ## Notes 
 
-A [jupyter notebook](EEGLearn_ShortDemo.ipynb) presents a short summary of the codes.
+A [jupyter notebook](EEGLearn_ShortDemo.ipynb) presents a short summary of the codes. Before running it, it is necessary to create the "eeg images" by running the [train](Train.py) script a first time or the create_img() function from (Utils)[Utils.py]. 
 
 The early stopping being not implemented in Pytorch, a version of the code with a custom version will be uploaded as soon as possible.
 
